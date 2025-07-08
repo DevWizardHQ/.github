@@ -110,5 +110,5 @@ Whether you're a startup looking to build your MVP or an enterprise needing to s
 
 <div align="center">
   <p>Made with ❤️ by DevWizard</p>
-  <p>© 2024 DevWizard. All rights reserved.</p>
+  <p>© 2025 DevWizard. All rights reserved.</p>
 </div>
